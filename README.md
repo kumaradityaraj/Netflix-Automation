@@ -8,10 +8,7 @@
 ------------
 
 ###### Video
- file:///home/ADITYA/Screencast%20from%2003-23-2022%2009:02:02%20PM.mp4
-
-
-![Video](https://github.com/kumaradityaraj/Netflix-Automation/blob/main/Screencast%20from%2003-23-2022%2009:02:02%20PM.webm)
+![Video](https://drive.google.com/file/d/1xy0xpZ8w8wzbQ3_18i5ga3UD4bm0AOj3/view?usp=sharing)
 
 ------------
 
