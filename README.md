@@ -8,7 +8,7 @@
 ------------
 
 ###### Video
-[Video](https://drive.google.com/file/d/19ygK8xcAS_za5iRqflN_75wdbrRsyXZi/view?usp=sharing)
+[Video](https://youtu.be/VWSTacMniA0)
 
 ------------
 
